@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DevTreeTest</string>
+    <string name="loading">Loading…</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="add_location">Add location</string>
+    <string name="sort_by_ascending">Sort by ascending</string>
+    <string name="sort_by_descending">Sort by descending</string>
+</resources>
